@@ -1,1 +1,1 @@
-Para usar la API de Google Translate, es necesario tener una cuenta de Google Cloud y crear un proyecto con la API de Google Translate habilitada. Luego, se debe descargar la clave de API en formato JSON y especificar la ruta al archivo JSON en el código, como se muestra en el ejemplo corregido.
+Para usar la API de Google Translate, es necesario tener una cuenta de Google Cloud y crear un proyecto con la API de Google Translate habilitada. Luego, se debe descargar la clave de API en formato JSON y especificar la ruta al archivo JSON en el código.
